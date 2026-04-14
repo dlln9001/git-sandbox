@@ -9,4 +9,5 @@ def second():
 
 
 def third():
-    print("third")
+    print("third + b")
+    print('added line')
