@@ -9,4 +9,4 @@ def second():
 
 
 def third():
-    print("third")
+    print("third + n")
